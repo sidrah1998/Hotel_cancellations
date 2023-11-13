@@ -15,7 +15,7 @@ Our analysis investigates attributes of the guests themselves including whether 
 
 The overarching goal is to establish a predictive model of cancellations that can be used to manage bookings to maximize profits for hotel management while minimizing disturbance to guests from overbookings,
 
-*Summarize conclusions here* Sarah
+*Summarize conclusions here* 
 
 ## Introduction
 
