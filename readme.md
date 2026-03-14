@@ -1,9 +1,6 @@
 ---
 title: |
   | Predicting Hotel Cancellation Rates
-author: "Sidrah Ahmad, Sarah Handy, James Kadado, Kanav Kansal"
-date: "11/25/2020"
-output: html_document
 ---
 
 ## Executive Summary 
